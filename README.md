@@ -27,4 +27,7 @@ A real-time cybersecurity tool designed to ensure **Data Integrity** and **Confi
 3.  The system will create a `secure_docs` folder. Any file dropped there is automatically secured.
 
 ## 📸 Proof of Concept
-(Upload your screenshot of the terminal output here)
+Here is the system in action. The log below demonstrates the tool securing a file, validating its integrity on the blockchain, and successfully detecting a simulated "Insider Threat" attack.
+
+![Real-Time Execution Log] execution_log_demo.png.png
+
