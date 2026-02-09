@@ -29,5 +29,5 @@ A real-time cybersecurity tool designed to ensure **Data Integrity** and **Confi
 ## 📸 Proof of Concept
 Here is the system in action. The log below demonstrates the tool securing a file, validating its integrity on the blockchain, and successfully detecting a simulated "Insider Threat" attack.
 
-![Real-Time Execution Log] execution_log_demo.png.png
+![Real-Time Execution Log](execution_log_demo.png.png)
 
